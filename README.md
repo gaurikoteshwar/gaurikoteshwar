@@ -1,4 +1,4 @@
-Hi! Namaste! Bonjour! 🐣🙌🙏
+Hi! 🐣🙌🙏
 
 I'm a Data & Analytics professional exploring the full data stack - analytics, pipelines, and applied ML. Passionate about turning data into actionable insights that drive real business decisions.
 
