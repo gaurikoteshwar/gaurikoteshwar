@@ -10,12 +10,11 @@ I'm a Data & Analytics professional exploring the full data stack - analytics, p
 ### About Me
 After 4+ years in digital automation and process optimization, I transitioned into analytics and strategy, focusing on experimentation, data-driven decision-making, and KPI design.
 
-### Experience & Skills
-- **Data Analysis & Automation:** 4+ years  
+### Experience & Skills  
 - **Programming & Libraries:** Python (SciPy, Scikit-learn, NLTK, NumPy, Pandas), SQL, R  
+- **Databases:** MySQL, Postgres, BigQuery, Snowflake (SQL & NoSQL understanding)
+- **Visualization & Reporting:** Plotly, Seaborn, Tableau, Google Analytics Suite
 - **Data Engineering Foundations:** ETL/ELT, dbt, Airflow, Datadog  
-- **Databases:** MySQL, Postgres (SQL & NoSQL understanding)  
-- **Visualization & Reporting:** Plotly, Seaborn, Tableau, Google Analytics Suite  
 - **Cloud & Tools:** GCP, AWS, Databricks, Git
 
 ### Interests
