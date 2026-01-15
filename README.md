@@ -1,6 +1,6 @@
 Hi! 🐣🙌🙏
 
-I'm a Data & Analytics professional exploring the full data stack - analytics, pipelines, and applied ML. Passionate about turning data into actionable insights that drive real business decisions.
+I'm a Data & Analytics professional exploring the full data stack - analytics, pipelines, and applied ML. Adept at turning data into actionable insights that drive business decisions.
 
 🌍 Based in France  
 🌱 Learning to build robust data pipelines and advanced dashboards  
@@ -8,7 +8,7 @@ I'm a Data & Analytics professional exploring the full data stack - analytics, p
 🤝 Open to collaboration on interesting projects
 
 ### About Me
-After 4+ years in digital automation and process optimization, I transitioned into analytics and strategy, focusing on experimentation, data-driven decision-making, and KPI design.
+With 4+ years of experience in analytics-driven automation and process optimization, I work at the intersection of data, experimentation, and strategy, translating complex datasets into KPIs and insights that drive decision-making.
 
 ### Experience & Skills  
 - **Programming & Libraries:** Python (SciPy, Scikit-learn, NLTK, NumPy, Pandas), SQL, R  
